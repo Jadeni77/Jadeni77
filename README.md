@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I am Xiaobin (Jaden) Mei 👋
 
-<!--
-**Jadeni77/Jadeni77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Math student at Northeastern University  
+💻 Interested in software development, AI, game development, problem-solving, and mathematical proofs
+🌱 Currently learning more about React.js, Spring Boot, and SQL databases by building a tower defense game
 
-Here are some ideas to get you started:
+# 🚀 Tech & Tools
+Languages: Java | JavaScript | Python | Racket  
+Technologies: React, IntelliJ IDEA, VSCode, Git/GitHub, PyCharm, Swing, JUnit, Spring Boot, PostgreSQL, RESTful APIs, LaTeX 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+[The Invasion] - Built with React.js frontend and Java Spring Boot backend
+[Calendar App](https://github.com/Jadeni77/Calendar) - Java implementation with Swing
+[NYC Connection](https://github.com/Jadeni77/Connections) - Java implementation with javalib
+[LightEmAll](https://github.com/Jadeni77/LightEmAll) - Java implementation with javalib
+
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/xiaobinmei/)
+- [Porfolio](https://jadeni77.github.io/XiaobinMei/)
+- Email: Xmei59664@gmail.com
