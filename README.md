@@ -4,11 +4,11 @@ Aspiring Software Engineer
 
 🎓 Computer Science & Math student at Northeastern University  
 💻 Interested in software development, AI, game development, problem-solving, and mathematical proofs
-🌱 Currently learning more about React.js, Spring Boot, and SQL databases by building a tower defense game
 
 # 🚀 Tech & Tools
-Languages: Java | JavaScript | Python | Racket  
-Technologies: React, IntelliJ IDEA, VSCode, Git/GitHub, PyCharm, Swing, JUnit, Spring Boot, PostgreSQL, RESTful APIs, LaTeX 
+Languages: Java, JavaScript, Python, Swift, Racket, HTML, CSS
+Development: React, Spring Boot, Node.js, PostgreSQL, SQLite, WebSocket, SwiftUI, Swing
+Testing & Tools: AWS EC2, Junit, Jest, Pytest, Git, Xcode, LateX
 
 ## 📌 Featured Projects
 - [The Invasion] - Built with React.js frontend and Java Spring Boot backend
