@@ -11,7 +11,7 @@ Development: React, Spring Boot, Node.js, PostgreSQL, SQLite, WebSocket, SwiftUI
 Testing & Tools: AWS EC2, Junit, Jest, Pytest, Git, Xcode, LateX
 
 ## 📌 Featured Projects
-- [The Invasion](the-invasion.pages.dev/) - Built with React.js frontend and Java Spring Boot backend
+- [The Invasion](https://the-invasion.pages.dev/) - Built with React.js frontend and Java Spring Boot backend
 - [Calendar App](https://github.com/Jadeni77/Calendar) - Java implementation with Swing
 - [NYC Connection](https://github.com/Jadeni77/Connections) - Java implementation with javalib
 - [LightEmAll](https://github.com/Jadeni77/LightEmAll) - Java implementation with javalib
